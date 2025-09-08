@@ -45,10 +45,10 @@ As a reference, a naive baseline uniformly assigns colors from the provided pale
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/recolorization-project.git
-   cd recolorization-project
+   git clone https://github.com/FiloSamo/Colorization_OxfordFlowers102.git
+   cd Colorization_OxfordFlowers102
    pip install -r requirements.txt
-   jupyter notebook recolorization_Samorì_Filippo.ipynb
+   jupyter notebook recolorization_project.ipynb
 ---
 
 ## 🧑‍💻 Author
