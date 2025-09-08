@@ -51,6 +51,24 @@ As a reference, a naive baseline uniformly assigns colors from the provided pale
    jupyter notebook recolorization_project.ipynb
 ---
 
+## 📚 References
+
+- Richard Zhang, Phillip Isola, and Alexei A. Efros.  
+  *Colorful Image Colorization*.  
+  In *European Conference on Computer Vision (ECCV)*, 2016.  
+  [[Paper]](https://arxiv.org/abs/1603.08511)
+
+- Patricia Vitoria, Lara Raad, and Coloma Ballester.  
+  *ChromaGAN: Adversarial Picture Colorization with Semantic Class Distribution*.  
+  In *IEEE Winter Conference on Applications of Computer Vision (WACV)*, pp. 2445–2454, 2020.  
+  [[Paper]](https://arxiv.org/abs/1907.09837)
+
+- Andrea Asperti.  
+  *Deep Learning – Lecture Slides*.  
+  University of Bologna, Academic Year 2024/2025.
+
+---
+
 ## 🧑‍💻 Author
 
 Filippo Samorì
