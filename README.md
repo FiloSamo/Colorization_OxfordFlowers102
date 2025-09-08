@@ -36,6 +36,9 @@ To simplify training:
 As a reference, a naive baseline uniformly assigns colors from the provided palette. This model serves as a benchmark to evaluate the network’s performance.
 
 ### Network Architecture
+
+![Architecture](Architecture.png)
+
 - **U-Net with residual blocks** ensures effective feature extraction.  
 - **AdaIN conditioning** integrates style information, guiding color prediction.  
 - **Loss objective** focuses only on chrominance channels.  
