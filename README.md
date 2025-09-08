@@ -42,15 +42,6 @@ As a reference, a naive baseline uniformly assigns colors from the provided pale
 
 ---
 
-## 📊 Results
-- The network produces colorized images that are visually closer to the ground truth compared to the baseline.  
-- Results are evaluated qualitatively by comparing reconstructed images with real colored ones.  
-- Flowers with distinctive shapes and strong chromatic cues are recolored more faithfully.  
-
-![Results](results.png)
-
----
-
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
@@ -64,3 +55,12 @@ As a reference, a naive baseline uniformly assigns colors from the provided pale
 
 Filippo Samorì
 Project developed as part of academic work in deep learning.
+
+---
+
+## 📊 Results
+- The network produces colorized images that are visually closer to the ground truth compared to the baseline.  
+- Results are evaluated qualitatively by comparing reconstructed images with real colored ones.  
+- Flowers with distinctive shapes and strong chromatic cues are recolored more faithfully.  
+
+![Results](results.png)
